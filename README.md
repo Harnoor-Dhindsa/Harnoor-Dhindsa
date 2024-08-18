@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harnoor Dhindsa</h1>
 <h3 align="center">A passionate frontend/Software developer</h3>
 
- - How to reach me **harnoordhindsa07@gmail.com** , <a href="https://harnoordhindsa.vercel.app" target="blank">Harnoordhindsa.com</a>
+ - How to reach me **harnoordhindsa07@gmail.com** , <a href="https://harnoordhindsa.vercel.app" target="_blank">Harnoordhindsa.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
