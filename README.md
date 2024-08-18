@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harnoor Dhindsa</h1>
 <h3 align="center">A passionate frontend/Software developer</h3>
 
-- 📫 How to reach me **harnoordhindsa07@gmail.com**
+<p align="center"> How to reach me **harnoordhindsa07@gmail.com** </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
